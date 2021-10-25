@@ -1,0 +1,120 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(3, 113, 204);
+}
+/*===========================================1st grid===========================*/
+#grid1-1{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+#grid1-2{
+    position: absolute;
+    left: 200px;
+    top: 0px;
+}
+#grid1-3{
+    position: absolute;
+    left: 400px;
+    top: 0px;
+}
+
+/*==========================================2nd grid===================================*/
+#grid2-1{
+    position: absolute;
+    left: 0px;
+    top: 200px;
+}
+#grid2-2{
+    position: absolute;
+    left: 200px;
+    top: 200px;
+}
+#grid2-3{
+    position: absolute;
+    left: 400px;
+    top: 200px;
+}
+
+/*=======================================3rd grid================================*/
+#grid3-1{
+    position: absolute;
+    left: 0px;
+    top: 400px;
+}
+#grid3-2{
+    position: absolute;
+    left:200px;
+    top: 400px;
+}
+#grid3-3{
+    position: absolute;
+    left: 400px;
+    top: 400px;
+}
+
+/*====================================grid image1====================================*/
+#img1-1-draggable{
+    position: absolute;
+    left: 780px;
+    top: 400px; 
+    
+}
+
+#img1-2-draggable{
+    position: absolute;
+    left: 800px;
+    top: 380px; 
+    
+}
+
+#img1-3-draggable{
+    position: absolute;
+    left: 820px;
+    top: 360px; 
+    
+}
+/*==================================grid image2========================================*/
+#img2-1-draggable{
+    position: absolute;
+    left: 840px;
+    top: 340px;    
+}
+
+#img2-2-draggable{
+    position: absolute;
+    left: 860px;
+    top: 320px; 
+    
+}
+
+#img2-3-draggable{
+    position: absolute;
+    left: 880px;
+    top: 300px;   
+}
+
+/*===================================grid image3=========================*/
+#img3-1-draggable{
+    position: absolute;
+    left: 900px;
+    top: 280px;    
+}
+
+#img3-3-draggable{
+    position: absolute;
+    left: 940px;
+    top: 240px;    
+}
+
+#img3-2-draggable{
+    position: absolute;
+    left: 920px;
+    top: 260px;   
+}
+
+
